@@ -21,7 +21,7 @@ I've also been a speaker, instructor and guest lecturer talking about Software E
 <br />
 Web3 Implementation of the 2048 Game. It runs on the EVM L2 blockchain: Optimism Sepolia Testnet.
 <br /> <br />
-👉 <a href="2048.jasonyapri.com"> Check it out</a> 👈
+👉 <a href="https://2048.jasonyapri.com"> Check it out</a> 👈
 
 <br />
 <br />
