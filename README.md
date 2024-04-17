@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="img/wave.gif" width="36px" /> , I'm <u>Jason Yapri</u> from Indonesia <img src="img/indonesian-flag.png" width="28px" /> ! </h1>
 
-<h4> I'm a multidisciplinary Remote Blockchain Engineer equipped with a decade of experience designing and developing Applications. </h4>
+<h3> I'm a multidisciplinary Remote Blockchain Engineer equipped with a decade of experience designing and developing Applications. </h3>
 
 I've worked at a remote Web3 startup - developing the backend of Web3 wallet along with setting up, maintaining and scaling blockchain nodes.
 
@@ -18,9 +18,9 @@ I've also been a speaker, instructor and guest lecturer talking about Software E
 <h2> 🔥 What I'm working on </h2> 
 <a href="https://2048.jasonyapri.com" target="_blank"><img src="img/jasonyapri-web3-game-2048.jpg" alt="Web3 Game: 2048. Created by Jason Yapri" height="300"></a>&nbsp;
 <a href="https://2048.jasonyapri.com" target="_blank"><img src="img/jasonyapri-web3-game-2048_2.png" alt="Web3 Game: 2048. Created by Jason Yapri" height="300"></a>
-<br />
-Web3 Implementation of the 2048 Game. It runs on the EVM L2 blockchain: Optimism Sepolia Testnet.
-<br /> <br />
+<br /><br />
+<h3>Web3 Implementation of the 2048 Game. It runs on the EVM L2 blockchain: Optimism Sepolia Testnet.</h3>
+<br /><br />
 👉 <a href="https://2048.jasonyapri.com"> Check it out</a> 👈
 
 <br />
