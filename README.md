@@ -18,7 +18,8 @@ I've also been a speaker, instructor and guest lecturer talking about Software E
 <h2> 🔥 What I'm working on </h2> 
 <a href="https://2048.jasonyapri.com" target="_blank"><img src="img/jasonyapri-web3-game-2048.jpg" alt="Web3 Game: 2048. Created by Jason Yapri" height="300"></a>&nbsp;
 <a href="https://2048.jasonyapri.com" target="_blank"><img src="img/jasonyapri-web3-game-2048_2.png" alt="Web3 Game: 2048. Created by Jason Yapri" height="300"></a>
-<h4>Web3 Implementation of the 2048 Game. It runs on the EVM L2 blockchain: Optimism Sepolia Testnet.</h4>
+<h4>Web3 Implementation of the 2048 Game running on the EVM L2 blockchain: Optimism Sepolia Testnet.</h4>
+<p>The board is shared among all players worldwide. Everyone have the chance to win ETH from the Prize Pool once you reach a certain number for the first time!</p>
 👉 <a href="https://2048.jasonyapri.com"> Check it out</a> 👈
 
 <br />
