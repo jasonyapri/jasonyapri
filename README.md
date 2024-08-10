@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="img/wave.gif" width="36px" /> , I'm <u>Jason Yapri</u> from Indonesia <img src="img/indonesian-flag.png" width="28px" /> ! </h1>
 
-<h3> I'm a multidisciplinary Remote Blockchain Engineer equipped with a decade of experience designing and developing Applications. </h3>
+<h3> I'm a multidisciplinary Remote Blockchain Engineer equipped with five years professional experience designing and developing Applications. </h3>
 
 I have remote working experience at a global Web3 startup - developing the backend of Web3 wallet along with setting up, maintaining and scaling various blockchain nodes (Ethereum, Polygon, Arbitrum, Avalanche, Binance Smart Chain, Saakuru) on AWS and Microsoft Azure with Docker.
 
