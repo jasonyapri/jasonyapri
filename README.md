@@ -6,7 +6,7 @@ I have remote working experience at a global Web3 startup - developing the backe
 
 Throughout my career, I have worked with various programming languages and technologies such as Solidity, Foundry, Hardhat, React, Next, Vue, Express, MongoDB, Postgre and MySQL, among others. I hold a BEng in Information Technology from Swiss German University, MSc in Entrepreneurship from University of Nottingham and various IT certifications. I am passionate about advancing the state of blockchain technology and making a meaningful impact on the industry.
 
-I have also been a speaker, instructor and guest lecturer talking about Software Engineering, Blockchain and Web3 in Swiss German University, CMKL University, GOTO Impact Foundation, Saakuru Academy (formerly known as AAG Academy) and Vexanium Blockchain.
+I have also been a speaker, instructor and guest lecturer talking about Software Engineering, Blockchain and Web3 in Swiss German University, Indonesian Open University (Universitas Terbuka), Atmajaya University, Universitas Pelita Harapan (UPH), Universitas Pembangunan Jaya (UPJ), CMKL University, GOTO Impact Foundation, Pelita Bangsa Academy, Saakuru Academy (formerly known as AAG Academy), Coinfest Asia, Web3 Week Asia, and MulungFest.
 
 <h2> 🤝 Connect with me </h2> 
 <a href="https://www.linkedin.com/in/jasonyapri/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
